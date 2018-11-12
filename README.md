@@ -9,8 +9,9 @@ To see the [boxcox.R](https://github.com/liming17/powers/blob/master/R/boxcoxTra
 
 To see the [logarithm.R](https://github.com/liming17/powers/blob/master/R/logarithm.R) and [test_logarithm.R](https://github.com/liming17/powers/blob/master/tests/testthat/test_logarithm.R)
 
+To see the [vignette.html](https://htmlpreview.github.io/?https://github.com/liming17/powers/blob/master/vignettes/using_powers.html)
 
 ## What's new?
 In this pacakge, I added “boxcox” family and “logarithm” family to the origin repo. The pacakge contains several useful functions for log computation, and boxcox transformation functions.
 
-Also I edit the README, vinette, and testing file :)
+Also I edit the README, vignette, and testing file :)
